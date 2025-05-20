@@ -1,7 +1,7 @@
 use crate::geo_point::Point;
 
 /*
-this structure can describe each tree node. It describes a subspace of a tree node. 
+This structure can describe each tree node. It describes a subspace of a tree node. 
 Will be used for search to calculate disances
 */
 #[derive(Debug, Clone, Copy)]
